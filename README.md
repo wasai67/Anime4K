@@ -9,4 +9,4 @@ Anime4K is a cutting-edge solution for anime image super-resolution (SR) that ut
 - **AniFusionNet**: A hybrid CNN-Transformer network architecture that achieves superior performance in anime super-resolution by integrating both local texture modeling and long-range dependency learning.
 - **Ground Truth (GT) Enhancement**: A targeted GT enhancement strategy that selectively strengthens hand-drawn line structures, ideal for anime images.
 
-![Anime4K logo](images/resultcom.pdf)
+![Anime4K logo](images/resultcom.jpg)
