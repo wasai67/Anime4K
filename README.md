@@ -1,4 +1,4 @@
-![Anime4K logo](images/logo.jpg)
+![Anime4K logo](images/logo.png)
 
 # Anime4K
 
