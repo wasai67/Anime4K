@@ -6,7 +6,7 @@ Anime4K is a cutting-edge solution for anime image super-resolution (SR) that ut
 
 ## <a name="Update"></a>Update 🔥🔥🔥
 - [ ] Release Paper version implementation of Anime4K
-- [ ] Publicly release the A4K dataset
+- [ ] Publicly release the **A4K dataset**
 - [ ] Release different upscaler factor weight (for 2x, 4x and more)
 - [ ] Create a Project Page
 - [ ] Some Online Demo for Chinese users && README in Chinese
