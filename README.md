@@ -5,6 +5,7 @@
 Anime4K is a cutting-edge solution for anime image super-resolution (SR) that utilizes a hybrid CNN-Transformer architecture, combined with a custom-built 4K resolution dataset specifically designed for anime images. This project aims to provide a high-quality solution for enhancing anime content, preserving fine details, maintaining color fidelity, and improving overall image quality.
 
 ## <a name="Update"></a>Update 🔥🔥🔥
+- [ ] Update Acknowledgement
 - [ ] Release Paper version implementation of Anime4K
 - [ ] Publicly release the **A4K dataset**
 - [ ] Release different upscaler factor weight (for 2x, 4x and more)
@@ -45,4 +46,4 @@ Anime4K is a cutting-edge solution for anime image super-resolution (SR) that ut
 
 
 ## 🤗 Acknowledgement
-- [IC9600](https://github.com/tinglyfeng/IC9600): The dataset curation pipeline uses IC9600 code to score image complexity level.
+
