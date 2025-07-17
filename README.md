@@ -1,6 +1,6 @@
 ![Anime4K logo](images/logo.png)
 
-# Anime4K
+# Anime4K: A Hybrid CNN–Transformer Network for Anime Super-Resolution
 
 Anime4K is a cutting-edge solution for anime image super-resolution (SR) that utilizes a hybrid CNN-Transformer architecture, combined with a custom-built 4K resolution dataset specifically designed for anime images. This project aims to provide a high-quality solution for enhancing anime content, preserving fine details, maintaining color fidelity, and improving overall image quality.
 
