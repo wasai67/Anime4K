@@ -20,27 +20,23 @@ Anime4K is a cutting-edge solution for anime image super-resolution (SR) that ut
 ## <a name="Visualization"></a> Visualization (Click them for the best view!) 👀
 
 <!-- Asuka:https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=8e80d844-62b6-11f0-bb24-0936e1cb08fb -->
-<!-- EVA: https://imgsli.com/MjQ1NzIx -->
-<!-- Pokemon: https://imgsli.com/MjQ1NzIy -->
-<!-- Pokemon2: https://imgsli.com/MjQ1NzM5 -->
-<!-- Gundam0079: https://imgsli.com/MjQ1NzIz -->
-<!-- Gundam0079 #2: https://imgsli.com/MjQ1NzMw -->
-<!-- f91: https://imgsli.com/MjQ1NzMx -->
-<!-- wataru: https://imgsli.com/MjQ1NzMy -->
+<!-- EVA: https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=a52ca656-62b9-11f0-bb24-0936e1cb08fb -->
+<!-- naruto: https://imgsli.com/MjQ1NzIy -->
+<!-- onepiece: https://imgsli.com/MjQ1NzM5 -->
+<!-- dragonball: https://imgsli.com/MjQ1NzIz -->
+<!-- gintama: https://imgsli.com/MjQ1NzMw -->
+<!-- goplayer: https://imgsli.com/MjQ1NzMx -->
+<!-- touch: https://imgsli.com/MjQ1NzMy -->
 
-[<img src="images/saku.png" height="223px"/>](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=8e80d844-62b6-11f0-bb24-0936e1cb08fb) [<img src="__assets__/visual_results/0079_2_visual.png" height="223px"/>](https://imgsli.com/MjQ1NzMw) 
+[<img src="images/saku.png" height="223px"/>](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=8e80d844-62b6-11f0-bb24-0936e1cb08fb) [<img src="images/eva.png" height="223px"/>](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=a52ca656-62b9-11f0-bb24-0936e1cb08fb) 
 
-[<img src="__assets__/visual_results/pokemon_visual.png" height="223px"/>](https://imgsli.com/MjQ1NzIy) [<img src="__assets__/visual_results/pokemon2_visual.png" height="223px"/>](https://imgsli.com/MjQ1NzM5)
+[<img src="images/naruto.png" height="223px"/>](https://imgsli.com/MjQ1NzIy) [<img src="images/onepiece.png" height="223px"/>](https://imgsli.com/MjQ1NzM5)
 
-[<img src="__assets__/visual_results/eva_visual.png" height="223px"/>](https://imgsli.com/MjQ1NzIx) [<img src="__assets__/visual_results/kiteret_visual.png" height="223px"/>](https://imgsli.com/MjQ1NzE0) 
+[<img src="images/dragonball.png" height="223px"/>](https://imgsli.com/MjQ1NzIx) [<img src="images/gintama.png" height="223px"/>](https://imgsli.com/MjQ1NzE0) 
 
-[<img src="__assets__/visual_results/f91_visual.png" height="223px"/>](https://imgsli.com/MjQ1NzMx) [<img src="__assets__/visual_results/wataru_visual.png" height="223px"/>](https://imgsli.com/MjQ1NzMy)
+[<img src="images/goplayer.png" height="223px"/>](https://imgsli.com/MjQ1NzMx) [<img src="images/touch.png" height="223px"/>](https://imgsli.com/MjQ1NzMy)
 
 
-
-<p align="center">
-  <img src="__assets__/AVC_RealLQ_comparison.png">
-</p>
 <!--------------------------------------------  --------------------------------------------------->
 
 
