@@ -28,7 +28,7 @@ Anime4K is a cutting-edge solution for anime image super-resolution (SR) that ut
 <!-- f91: https://imgsli.com/MjQ1NzMx -->
 <!-- wataru: https://imgsli.com/MjQ1NzMy -->
 
-[<img src="__assets__/visual_results/0079_visual.png" height="223px"/>](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=8e80d844-62b6-11f0-bb24-0936e1cb08fb) [<img src="__assets__/visual_results/0079_2_visual.png" height="223px"/>](https://imgsli.com/MjQ1NzMw) 
+[<img src="images/saku.png" height="223px"/>](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=8e80d844-62b6-11f0-bb24-0936e1cb08fb) [<img src="__assets__/visual_results/0079_2_visual.png" height="223px"/>](https://imgsli.com/MjQ1NzMw) 
 
 [<img src="__assets__/visual_results/pokemon_visual.png" height="223px"/>](https://imgsli.com/MjQ1NzIy) [<img src="__assets__/visual_results/pokemon2_visual.png" height="223px"/>](https://imgsli.com/MjQ1NzM5)
 
