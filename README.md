@@ -19,7 +19,7 @@ Anime4K is a cutting-edge solution for anime image super-resolution (SR) that ut
 
 ## <a name="Visualization"></a> Visualization (Click them for the best view!) 👀
 
-<!-- [Kiteret: https://imgsli.com/MjQ1NzE0](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=8e80d844-62b6-11f0-bb24-0936e1cb08fb) -->
+<!-- https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=8e80d844-62b6-11f0-bb24-0936e1cb08fb -->
 <!-- EVA: https://imgsli.com/MjQ1NzIx -->
 <!-- Pokemon: https://imgsli.com/MjQ1NzIy -->
 <!-- Pokemon2: https://imgsli.com/MjQ1NzM5 -->
