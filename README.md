@@ -21,20 +21,20 @@ Anime4K is a cutting-edge solution for anime image super-resolution (SR) that ut
 
 <!-- Asuka:https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=8e80d844-62b6-11f0-bb24-0936e1cb08fb -->
 <!-- EVA: https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=a52ca656-62b9-11f0-bb24-0936e1cb08fb -->
-<!-- naruto: https://imgsli.com/MjQ1NzIy -->
-<!-- onepiece: https://imgsli.com/MjQ1NzM5 -->
-<!-- dragonball: https://imgsli.com/MjQ1NzIz -->
-<!-- gintama: https://imgsli.com/MjQ1NzMw -->
-<!-- goplayer: https://imgsli.com/MjQ1NzMx -->
-<!-- touch: https://imgsli.com/MjQ1NzMy -->
+<!-- naruto: https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=f267c298-62b9-11f0-bb24-0936e1cb08fb -->
+<!-- onepiece: https://https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=096241b2-62ba-11f0-bb24-0936e1cb08fb -->
+<!-- dragonball: https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=29eaf0a0-62ba-11f0-bb24-0936e1cb08fb -->
+<!-- gintama: https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5dbcb40e-62ba-11f0-bb24-0936e1cb08fb -->
+<!-- goplayer: https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=811b93b6-62ba-11f0-bb24-0936e1cb08fb -->
+<!-- touch: https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=9bdbb2b2-62ba-11f0-bb24-0936e1cb08fb -->
 
 [<img src="images/saku.png" height="223px"/>](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=8e80d844-62b6-11f0-bb24-0936e1cb08fb) [<img src="images/eva.png" height="223px"/>](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=a52ca656-62b9-11f0-bb24-0936e1cb08fb) 
 
-[<img src="images/naruto.png" height="223px"/>](https://imgsli.com/MjQ1NzIy) [<img src="images/onepiece.png" height="223px"/>](https://imgsli.com/MjQ1NzM5)
+[<img src="images/naruto.png" height="223px"/>](https://https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=f267c298-62b9-11f0-bb24-0936e1cb08fb) [<img src="images/onepiece.png" height="223px"/>](https://https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=096241b2-62ba-11f0-bb24-0936e1cb08fb)
 
-[<img src="images/dragonball.png" height="223px"/>](https://imgsli.com/MjQ1NzIx) [<img src="images/gintama.png" height="223px"/>](https://imgsli.com/MjQ1NzE0) 
+[<img src="images/dragonball.png" height="223px"/>](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=29eaf0a0-62ba-11f0-bb24-0936e1cb08fb) [<img src="images/gintama.png" height="223px"/>](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=5dbcb40e-62ba-11f0-bb24-0936e1cb08fb) 
 
-[<img src="images/goplayer.png" height="223px"/>](https://imgsli.com/MjQ1NzMx) [<img src="images/touch.png" height="223px"/>](https://imgsli.com/MjQ1NzMy)
+[<img src="images/goplayer.png" height="223px"/>](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=811b93b6-62ba-11f0-bb24-0936e1cb08fb) [<img src="images/touch.png" height="223px"/>](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=9bdbb2b2-62ba-11f0-bb24-0936e1cb08fb)
 
 
 <!--------------------------------------------  --------------------------------------------------->
