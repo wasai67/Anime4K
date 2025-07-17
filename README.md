@@ -42,3 +42,7 @@ Anime4K is a cutting-edge solution for anime image super-resolution (SR) that ut
 
 
 ![Anime4K result](images/resultcom.jpg)
+
+
+## 🤗 Acknowledgement
+- [IC9600](https://github.com/tinglyfeng/IC9600): The dataset curation pipeline uses IC9600 code to score image complexity level.
